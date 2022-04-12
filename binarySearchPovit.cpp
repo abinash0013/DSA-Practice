@@ -31,5 +31,5 @@ int main()
                   1,
                   3};
 
-    cout << "Povit is : " << getPivot(arr, 5) << endl;
+    cout << "Pivot is : " << getPivot(arr, 5) << endl;
 }
